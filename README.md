@@ -32,6 +32,7 @@ CodeShare 是一个开源的技术代码分享平台，旨在为开发者和技�
 | 网络爬虫 | 轻松找到称心房源 | [笔记]()  | [代码](/Users/huyida/USERPRO/code/CodeShare/spiders/轻松找到称心房源) |
 | 网络爬虫 | 筛选招聘岗位 | [笔记]()  | [代码](spiders/筛选招聘岗位/get_jd.py) |
 | 网络爬虫 | 网络爬虫框架Scrapy | [笔记]()  | [代码](spiders/网络爬虫框架Scrapy/mySpider) |
+| 基础教程 | Python学习路线图 | [笔记]()  | [代码](basics/Python%20学习路线图.pdf) |
 
 
 ## 💡如何贡献
